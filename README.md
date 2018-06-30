@@ -1,2 +1,2 @@
 # mygit
-szl的第一个git
+my first git
